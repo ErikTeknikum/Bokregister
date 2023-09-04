@@ -1,0 +1,119 @@
+.title{
+    font-size: 60px;
+    text-align:center;
+}
+
+.mainBody{
+    margin:0;
+    background-color:lightgray;
+    height:auto;
+}
+
+.bodyList{
+    padding-left:20%;
+    padding-top:5%;
+}
+
+.mainHeader{
+    width:100%;
+    height:70px;
+    margin:auto;
+    background-color:slategrey;
+    padding-top:30px;
+    padding-bottom:30px;
+    border: 1px solid black;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+    height:50px;
+}
+
+.navbar a {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+h1{
+    margin:0;
+}
+
+.paragraphSortDescription{
+    font-size:35px;
+    padding-left:100px;
+}
+
+.bookTable{
+    font-size:40px;
+    padding-bottom:30px; 
+    border: 1px solid black;
+    
+}
+
+.td, th{
+    padding:10px;
+    padding-right:200px;
+    border:1px solid black;
+}
+
+.paragraphAddBook{
+    font-size:25px;
+}
+
+.buttonAddBookLabel{
+    font-size:25px;
+}
+
+.labelTitle{
+    padding-right:38px;
+}
+
+.divAuthorTitle{
+    padding-top:50px;
+    padding-left:200px;
+    padding-bottom:20px;
+}
+
+input[type="submit"]{
+    height:40px;
+    width:100px;
+}
+
+.mainFooter{
+    width:100%;
+    text-align: center;
+    padding: 3px;
+    background-color:orange;
+    bottom:0;
+    position:fixed;
+    margin:0;
+    border:1px solid black;
+}
+
+.buttonCss{
+    padding-left:20px;
+}
+
+.paragraphFooter{
+    font-size:30px;
+}
+
+.leftBorder{
+    background-color:black;
+    float:left;
+    width:100px;
+    height:900px;
+}
+
+.rightBorder{
+    background-color:black;
+    float:right;
+    width:100px;
+    height:900px;
+}
